@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: commons-daemon-1.0.15.jar
+Sealed: true
+Main-Class: dpit.conn
