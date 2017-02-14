@@ -7,8 +7,8 @@
 
 	<repositories>
 		<repository>
-			<id>dpit-group</id>
-			<url>http://dpit.iptime.org:10001/content/groups/public/</url>
+			<id>linadecorea</id>
+			<url>http://jenkins.linadecorea.kr:58081/nexus/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
